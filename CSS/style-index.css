@@ -380,6 +380,7 @@ a:active {
 
 .violet-confidencial-text {
     color: #7B48E8;
+    cursor: pointer;
 }
 
 .hero-backgrounds {
